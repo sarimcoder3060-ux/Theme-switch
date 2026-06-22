@@ -1,0 +1,29 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    padding: 50px;
+}
+p{
+    margin-top: 20px;
+    width: 600px;
+
+}
+button{
+    width: 120px;
+    height: 40px;
+    border: none;
+    background-color: blue;
+    border-radius: 10px;
+    color: white;
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.darkTheme{
+    background-color: rgb(43, 42, 42);
+    color: rgb(223, 223, 223);
+}
